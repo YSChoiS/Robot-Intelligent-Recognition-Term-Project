@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(myproject)
+project(RIR_Term_Project)
 
 # Build the talker and listener. Each one uses the following ROS packages,
 # which we need to find_package() individually:
