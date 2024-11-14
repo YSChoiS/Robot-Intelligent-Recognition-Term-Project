@@ -1,4 +1,4 @@
-# This project is the term project for Robot Intelligence and Cognition Introduction
+# This project is the term project for *Robot Intelligence and Cognition Introduction*
 https://youtu.be/PaGTlaf0xSU
 
 https://youtu.be/40wkhadsNsc
